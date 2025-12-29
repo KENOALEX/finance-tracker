@@ -11,7 +11,7 @@ Right now, it's pretty basic, but the plan is to keep refactoring and adding fea
 ## 🗺️ The Plan
 I've broken my learning path into stages. I'll check these off as I complete them:
 
-- [ ] **v1: The Basics** - Just a simple script to calculate a budget.
+- [x] **v1: The Basics** - Just a simple script to calculate a budget.
 - [ ] **v2: Saving Data** - Adding CSV handling so my data doesn't disappear when I close the app.
 - [ ] **v3: Cleaning Up** - Organizing the code into functions and fixing error bugs.
 - [ ] **v4: OOP Update** - Rewriting the logic using Classes and Objects (getting fancy).
